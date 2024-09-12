@@ -44,64 +44,63 @@ O blog é dividido em várias seções principais:
    ```bash
    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
-
 ---
 
-# Relatório do Blog da Universidade da Amazônia (UNAMA)
+# 📊 Relatório do Blog da Universidade da Amazônia (UNAMA)
 
-## Introdução
+## 📘 Introdução
 
 O Blog da Universidade da Amazônia (UNAMA) é uma plataforma digital destinada a fornecer informações e atualizações sobre eventos, cursos e notícias relevantes para a comunidade acadêmica e o público em geral. Este relatório fornece um resumo das principais seções e funcionalidades do blog, bem como uma visão geral dos eventos e recursos destacados.
 
-## Estrutura do Blog
+## 🏗️ Estrutura do Blog
 
-### Cabeçalho (Header)
+### 🏠 Cabeçalho (Header)
 
 - **Logo e Título**: O cabeçalho apresenta o logo da UNAMA e o título do blog, "Ciência da Computação - BLOG", proporcionando uma identificação clara da instituição.
 - **Informações da Instituição**: Inclui uma breve descrição da Universidade da Amazônia (UNAMA).
 
-### Seções Principais
+### 📑 Seções Principais
 
-#### 1. **Mensagem de Boas-vindas (Semana Ubíqua)**
+#### 1. **📅 Mensagem de Boas-vindas (Semana Ubíqua)**
 
 - **Data Science e Visualização de Dados**: Destaque para a atividade de Data Science e Visualização de Dados conduzida por Igor Falcão. A seção inclui uma imagem relevante e uma breve descrição sobre a importância da ciência de dados e visualização de dados no cenário atual.
 
-#### 2. **História da Universidade**
+#### 2. **🏛️ História da Universidade**
 
 - **José Janguiê Diniz**: Apresenta a trajetória do fundador do Grupo Ser Educacional, José Janguiê Diniz, desde sua infância até o estabelecimento do grupo educacional. A seção inclui uma imagem histórica e um link para mais detalhes sobre a biografia do fundador.
 
-#### 3. **Aula de Manutenção de Computadores**
+#### 3. **🛠️ Aula de Manutenção de Computadores**
 
 - **Hermínio Paixão**: Detalha a aula de manutenção de computadores realizada durante a "Semana Ubíqua", conduzida pelo especialista Hermínio Paixão. Esta seção destaca a importância do evento e os tópicos abordados, como manutenção preventiva e técnicas de reparo.
 
-#### 4. **Evento de Segurança Cibernética (Sice Sicuryt)**
+#### 4. **🔒 Evento de Segurança Cibernética (Sice Sicuryt)**
 
 - **Devs Norte**: Descreve o evento de segurança cibernética "Sice Sicuryt", organizado pela Devs Norte. A seção enfatiza a relevância do evento em um ambiente digital em constante evolução e fornece um link para saber mais.
 
-#### 5. **Projeto TechBase**
+#### 5. **💻 Projeto TechBase**
 
 - **Informática Básica**: Informa sobre o projeto TechBase, uma parceria com o Unama Parque Shopping para oferecer cursos gratuitos de informática básica. Esta seção detalha o objetivo do projeto e como ele beneficia a comunidade.
 
-#### 6. **Localização da UNAMA - Parque Shopping**
+#### 6. **📍 Localização da UNAMA - Parque Shopping**
 
 - **Mapa Integrado**: Inclui um mapa integrado do local da UNAMA no Parque Shopping, fornecendo informações visuais para visitantes e interessados.
 
-#### 7. **Formulário de Contato**
+#### 7. **📧 Formulário de Contato**
 
 - **Informações de Contato**: Oferece um formulário para que os visitantes possam entrar em contato com a universidade. Inclui campos para nome, matrícula, estado, cidade, unidade, e-mail e mensagem.
 
-### Rodapé (Footer)
+### 📜 Rodapé (Footer)
 
-- **Informações Adicionais**: Contém links úteis, como o [Portal do Aluno](https://aluno.sereduc.com/) e perfis sociais da UNAMA, incluindo Instagram, Facebook e YouTube.
+- **Informações Adicionais**: Contém links úteis, como o [Portal do Aluno](https://aluno.sereduc.com/) e perfis sociais da UNAMA, incluindo Instagram, Facebook e YouTube. 📸👍🎥
 - **Direitos Autorais**: Declaração de direitos autorais da Universidade da Amazônia.
 
-## Análise e Observações
+## 📈 Análise e Observações
 
 - **Usabilidade e Design**: O blog apresenta um design intuitivo e acessível, com seções bem definidas e conteúdo visualmente atraente. A inclusão de imagens e links diretos melhora a navegação e o acesso à informação.
 - **Conteúdo Relevante**: O blog abrange uma variedade de tópicos importantes para a comunidade acadêmica, como eventos, projetos e recursos educativos, contribuindo para o engajamento e a disseminação de informações.
 - **Funcionalidades de Contato**: O formulário de contato é uma ferramenta útil para que os visitantes interajam com a universidade, promovendo uma comunicação eficaz.
 
-## Conclusão
+## 🎯 Conclusão
 
 O Blog da UNAMA serve como uma plataforma essencial para a divulgação de informações e eventos relacionados à universidade. Com uma estrutura clara e conteúdo relevante, o blog atende às necessidades da comunidade acadêmica e do público em geral. O uso de recursos visuais e links para informações adicionais contribui para uma experiência de usuário positiva e engajadora.
 

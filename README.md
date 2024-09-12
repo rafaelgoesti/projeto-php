@@ -1,5 +1,5 @@
 # 🌐 Blog da Ciência da Computação - UNAMA
-![Descrição da Imagem](unama.png)
+![Descrição da Imagem](UNAMA.png)
 
 Bem-vindo ao repositório do Blog da Ciência da Computação da Universidade da Amazônia (UNAMA). Este site oferece informações sobre eventos, cursos e notícias relacionados à área de Ciência da Computação. O blog é uma plataforma para compartilhar informações atualizadas e relevantes para alunos e profissionais da área.
 
@@ -33,6 +33,7 @@ O blog é dividido em várias seções principais:
    - Informações sobre o projeto TechBase e sua parceria com o Unama Parque Shopping para oferecer cursos de informática básica.
 
 7. **Localização (Location)**:
+![Descrição da Imagem](LOCALIZACAO.png)
    - Mapa integrado do local da UNAMA - Parque Shopping.
 
 8. **Formulário de Contato (Contact Form)**:

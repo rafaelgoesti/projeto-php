@@ -44,7 +44,6 @@ O blog é dividido em várias seções principais:
    ```bash
    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
-Claro! Aqui está um exemplo de relatório para o blog da UNAMA:
 
 ---
 
@@ -107,5 +106,3 @@ O Blog da Universidade da Amazônia (UNAMA) é uma plataforma digital destinada 
 O Blog da UNAMA serve como uma plataforma essencial para a divulgação de informações e eventos relacionados à universidade. Com uma estrutura clara e conteúdo relevante, o blog atende às necessidades da comunidade acadêmica e do público em geral. O uso de recursos visuais e links para informações adicionais contribui para uma experiência de usuário positiva e engajadora.
 
 ---
-
-Este relatório pode ser ajustado conforme necessário para refletir atualizações ou detalhes adicionais específicos para o blog da UNAMA.

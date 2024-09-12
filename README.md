@@ -1,15 +1,15 @@
-# Blog da Ciência da Computação - UNAMA
+# 🌐 Blog da Ciência da Computação - UNAMA
 
 Bem-vindo ao repositório do Blog da Ciência da Computação da Universidade da Amazônia (UNAMA). Este site oferece informações sobre eventos, cursos e notícias relacionados à área de Ciência da Computação. O blog é uma plataforma para compartilhar informações atualizadas e relevantes para alunos e profissionais da área.
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 O projeto é estruturado da seguinte maneira:
 
 - `index.html`: O arquivo principal HTML que contém o conteúdo do blog.
 - `styles.css`: O arquivo de estilos CSS para o design da página.
 
-## Seções do Blog
+## 📝 Seções do Blog
 
 O blog é dividido em várias seções principais:
 
@@ -37,7 +37,7 @@ O blog é dividido em várias seções principais:
 8. **Formulário de Contato (Contact Form)**:
    - Um formulário para contato com campos para nome, matrícula, estado, cidade, unidade, e-mail e mensagem.
 
-## Como Usar
+## 🚀 Como Usar
 
 1. **Clonar o Repositório**:
    Para clonar o repositório, use o seguinte comando:

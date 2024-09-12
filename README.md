@@ -21,6 +21,7 @@ O blog é dividido em várias seções principais:
    - Detalhes sobre a "Semana Ubíqua" com uma imagem relevante e um destaque para a atividade de Data Science e Visualização de Dados com Igor Falcão.
 
 3. **História da Universidade (University History)**:
+![Descrição da Imagem](HISTORIA.png)
    - Apresenta a história do fundador José Janguiê Diniz e informações sobre o Grupo Ser Educacional.
 
 4. **Aula de Manutenção de Computadores (Computer Maintenance Class)**:

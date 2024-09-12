@@ -25,6 +25,7 @@ O blog é dividido em várias seções principais:
    - Apresenta a história do fundador José Janguiê Diniz e informações sobre o Grupo Ser Educacional.
 
 4. **Aula de Manutenção de Computadores (Computer Maintenance Class)**:
+![Descrição da Imagem](UBIQUA.png)
    - Informações sobre a aula de manutenção de computadores com o especialista Hermínio Paixão.
 
 5. **Evento de Segurança Cibernética (Sice Sicuryt)**:

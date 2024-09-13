@@ -47,8 +47,7 @@ O blog é dividido em várias seções principais:
 1. **Clonar o Repositório**:
    Para clonar o repositório, use o seguinte comando:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-
+   git clone https://github.com/rafaelgoesti/projeto-php.git
 ---
 
 # 📊 Relatório do Blog da Universidade da Amazônia (UNAMA)

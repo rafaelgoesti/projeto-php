@@ -1,5 +1,5 @@
 # 🌐 Blog da Ciência da Computação - UNAMA
-![Descrição da Imagem](UNAMA.png)
+![Descrição da Imagem](imagens/UNAMA.png)
 
 Bem-vindo ao repositório do Blog da Ciência da Computação da Universidade da Amazônia (UNAMA). Este site oferece informações sobre eventos, cursos e notícias relacionados à área de Ciência da Computação. O blog é uma plataforma para compartilhar informações atualizadas e relevantes para alunos e profissionais da área.
 
@@ -21,11 +21,11 @@ O blog é dividido em várias seções principais:
    - Detalhes sobre a "Semana Ubíqua" com uma imagem relevante e um destaque para a atividade de Data Science e Visualização de Dados com Igor Falcão.
 
 3. **História da Universidade (University History)**:
-![Descrição da Imagem](HISTORIA.png)
+![Descrição da Imagem](imagens/HISTORIA.png)
    - Apresenta a história do fundador José Janguiê Diniz e informações sobre o Grupo Ser Educacional.
 
 4. **Aula de Manutenção de Computadores (Computer Maintenance Class)**:
-![Descrição da Imagem](UBIQUA.png)
+![Descrição da Imagem](imagens/UBIQUA.png)
    - Informações sobre a aula de manutenção de computadores com o especialista Hermínio Paixão.
 
 5. **Evento de Segurança Cibernética (Sice Sicuryt)**:
@@ -35,11 +35,11 @@ O blog é dividido em várias seções principais:
    - Informações sobre o projeto TechBase e sua parceria com o Unama Parque Shopping para oferecer cursos de informática básica.
 
 7. **Localização (Location)**:
-![Descrição da Imagem](LOCALIZACAO.png)
+![Descrição da Imagem](imagens/LOCALIZACAO.png)
    - Mapa integrado do local da UNAMA - Parque Shopping.
 
 8. **Formulário de Contato (Contact Form)**:
-![Descrição da Imagem](FALECONOSCO.png)
+![Descrição da Imagem](imagens/FALECONOSCO.png)
    - Um formulário para contato com campos para nome, matrícula, estado, cidade, unidade, e-mail e mensagem.
 
 ## 🚀 Como Usar

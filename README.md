@@ -21,11 +21,11 @@ O blog é dividido em várias seções principais:
    - Detalhes sobre a "Semana Ubíqua" com uma imagem relevante e um destaque para a atividade de Data Science e Visualização de Dados com Igor Falcão.
 
 3. **História da Universidade (University History)**:
-![Descrição da Imagem](imagens/HISTORIA.png)
+![Descrição da Imagem](blog-unama/imagens/HISTORIA.png)
    - Apresenta a história do fundador José Janguiê Diniz e informações sobre o Grupo Ser Educacional.
 
 4. **Aula de Manutenção de Computadores (Computer Maintenance Class)**:
-![Descrição da Imagem](imagens/UBIQUA.png)
+![Descrição da Imagem](blog-unama/imagens/UBIQUA.png)
    - Informações sobre a aula de manutenção de computadores com o especialista Hermínio Paixão.
 
 5. **Evento de Segurança Cibernética (Sice Sicuryt)**:
@@ -35,11 +35,11 @@ O blog é dividido em várias seções principais:
    - Informações sobre o projeto TechBase e sua parceria com o Unama Parque Shopping para oferecer cursos de informática básica.
 
 7. **Localização (Location)**:
-![Descrição da Imagem](imagens/LOCALIZACAO.png)
+![Descrição da Imagem](blog-unama/imagens/LOCALIZACAO.png)
    - Mapa integrado do local da UNAMA - Parque Shopping.
 
 8. **Formulário de Contato (Contact Form)**:
-![Descrição da Imagem](imagens/FALECONOSCO.png)
+![Descrição da Imagem](blog-unama/imagens/FALECONOSCO.png)
    - Um formulário para contato com campos para nome, matrícula, estado, cidade, unidade, e-mail e mensagem.
 
 ## 🚀 Como Usar
@@ -95,7 +95,7 @@ O Blog da Universidade da Amazônia (UNAMA) é uma plataforma digital destinada 
 
 ### 📜 Rodapé (Footer)
 
-- **Informações Adicionais**: Contém links úteis, como o [Portal do Aluno](https://aluno.sereduc.com/) e perfis sociais da UNAMA, incluindo Instagram, Facebook e YouTube. 📸👍🎥
+- **Informações Adicionais**: Contém links úteis, como perfis de redes sociais da UNAMA, incluindo Instagram, Facebook e YouTube. 📸👍🎥
 - **Direitos Autorais**: Declaração de direitos autorais da Universidade da Amazônia.
 
 ## 📈 Análise e Observações

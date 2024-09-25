@@ -8,6 +8,9 @@ Bem-vindo ao repositório do Blog da Ciência da Computação da Universidade da
 O projeto é estruturado da seguinte maneira:
 
 - `index.html`: O arquivo principal HTML que contém o conteúdo do blog.
+- `noticias`: O arquivo que contém as Notícias do blog.
+- `projetos.html`: O arquivo que mostra todos os projetos feitos durante o semestre.
+- `contato.html`: O arquivo de informções de contato.
 - `styles.css`: O arquivo de estilos CSS para o design da página.
 
 ## 📝 Seções do Blog

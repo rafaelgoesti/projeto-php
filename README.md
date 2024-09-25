@@ -1,5 +1,5 @@
 # 🌐 Blog da Ciência da Computação - UNAMA
-![Descrição da Imagem](imagens/UNAMA.png)
+![Descrição da Imagem](blog-unama/imagens/img-blog.png)
 
 Bem-vindo ao repositório do Blog da Ciência da Computação da Universidade da Amazônia (UNAMA). Este site oferece informações sobre eventos, cursos e notícias relacionados à área de Ciência da Computação. O blog é uma plataforma para compartilhar informações atualizadas e relevantes para alunos e profissionais da área.
 

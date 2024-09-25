@@ -109,3 +109,10 @@ O Blog da Universidade da Amazônia (UNAMA) é uma plataforma digital destinada 
 O Blog da UNAMA serve como uma plataforma essencial para a divulgação de informações e eventos relacionados à universidade. Com uma estrutura clara e conteúdo relevante, o blog atende às necessidades da comunidade acadêmica e do público em geral. O uso de recursos visuais e links para informações adicionais contribui para uma experiência de usuário positiva e engajadora.
 
 ---
+#### Desenvolvedores
+
+- [@Rafael Góes Duarte](https://github.com/rafaelgoesti)
+- [@Luan Levi barbosa de Carvalho](https://github.com/Luan-carvalho-b)
+- [@Vinicius Matheus Ramos das Merces](https://github.com/Math0or)
+- [@Davi Serrão Lima](https://github.com/D4vi2205)
+- [@Andrei Ribeiro Guterres](https://github.com/eudreyzz)

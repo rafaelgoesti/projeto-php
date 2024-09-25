@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato | Blog Ciência da Computação</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Contato</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="noticias.html">Notícias</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="localizacao">
+        <h2>UNAMA - Parque Shopping</h2>
+        <div class="container1">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6748571023327!2d-48.44970972414096!3d-1.3717739357273593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92a48bdd104b1bcb%3A0x300ae183aeb6174a!2sUNAMA%20-%20Parque%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1726172208840!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <p class="visite-nos">Visite-nos</p>
+    </section>
+
+    <section class="area-noticias">
+        <h2>Fale conosco</h2>
+        <div class="form-container">
+            <form action="dados.php" method="post">
+                <div class="form-group">
+                    <label for="nome">Nome completo:</label>
+                    <input type="text" name="nome" id="idnome" required>
+                <div class="form-group">
+                    <label for="estado">Estado:</label>
+                    <select name="cidade" id="idcidade">
+                        <option value="">--Estado--</option>
+                        <option value="">PA</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="">Cidade:</label>
+                    <select name="cidade" id="idcidade">
+                        <option value="">--Cidade--</option>
+                        <option value="">Bélem</option>
+                        <option value="">Ananindeua</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="">E-mail:</label>
+                    <input type="email" name="email" id="idemail">
+                </div>
+                <div class="form-group">
+                    <label for="">Mensagem:</label>
+                    <textarea name="mensagem" id="" rows="5" cols="40"></textarea>
+                </div>
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/UnamaOficial" target="_blank" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.youtube.com/user/unamaoficial" target="_blank" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/unamaoficial/" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+        </div>
+        <p>&copy; 2024 Universidade da Amazônia - UNAMA. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
